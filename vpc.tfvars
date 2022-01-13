@@ -1,0 +1,6 @@
+public_subnet_suffix="public"
+private_subnet_suffix="private"
+intra_subnet_suffix="infra"
+database_subnet_suffix="database"
+redshift_subnet_suffix="redshift"
+elasticache_subnet_suffix="elasticache"
